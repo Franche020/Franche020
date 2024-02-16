@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Franche020
-- 👀 I’m interested in learn web development
-- 🌱 I’m currently learning HTML, CSS & javascript
-- 💞️ I’m looking to collaborate on web pages
+- 👀 I’m interested in learn more of web development
+- 🌱 I’m currently Developing some personal Laravel/Vue Project
+- 💞️ I’m looking to collaborate on Laravel/Vuejs Proyects
 - 📫 How to reach me (https://github.com/Franche020)
 
 <!---
